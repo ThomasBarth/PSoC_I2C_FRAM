@@ -1,25 +1,7 @@
 /**
- * @FRAM.h
+ * @file FRAM.c
  * @author  Thomas Barth <thomas@barth-dev.de>
  * @version 1.0
- *
- * @section LICENSE
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License as
- * published by the Free Software Foundation; either version 2 of
- * the License, or (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful, but
- * WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
- * General Public License for more details at
- * https://www.gnu.org/copyleft/gpl.html
- *
- * @section DESCRIPTION
- *
- * This driver realises the communication between a Cypress PSoC and a Cypress I2C FRAM chip.
- * This driver is tested for the usage with a Cypress FM24V10 (http://www.cypress.com/file/41666/download) F-RAM memory chip, other EEPROM or FRAM chips might also be compatible.
  */
 
 /*******************************************************************************

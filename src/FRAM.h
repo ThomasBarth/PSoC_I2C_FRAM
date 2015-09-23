@@ -1,5 +1,5 @@
 /**
- * @FRAM.h
+ * @file FRAM.h
  * @author  Thomas Barth <thomas@barth-dev.de>
  * @version 1.0
  *
